@@ -23,3 +23,4 @@ cc_library(
 "include/nlohmann/detail/iterators/primitive_iterator.hpp",
   "include/nlohmann/detail/json_custom_base_class.hpp",
  "include/nlohmann/detail/json_pointer.hpp",
+"include/nlohmann/detail/json_ref.hpp",
