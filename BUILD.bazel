@@ -25,3 +25,4 @@ cc_library(
  "include/nlohmann/detail/json_pointer.hpp",
 "include/nlohmann/detail/json_ref.hpp",
 "include/nlohmann/detail/macro_scope.hpp",
+ "include/nlohmann/detail/macro_unscope.hpp",
