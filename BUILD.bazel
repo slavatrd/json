@@ -47,3 +47,4 @@ cc_library(
 "include/nlohmann/thirdparty/hedley/hedley.hpp",
  "include/nlohmann/thirdparty/hedley/hedley_undef.hpp",
     ],
+  includes = ["include"],
