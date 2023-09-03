@@ -27,3 +27,5 @@ cc_library(
  "include/nlohmann/detail/macro_scope.hpp",
         "include/nlohmann/detail/macro_unscope.hpp",
   "include/nlohmann/detail/meta/call_std/begin.hpp",
+ "include/nlohmann/detail/meta/call_std/end.hpp",
+        "include/nlohmann/detail/meta/cpp_future.hpp",
