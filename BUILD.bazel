@@ -37,3 +37,5 @@ cc_library(
         "include/nlohmann/detail/meta/void_t.hpp",
  "include/nlohmann/detail/output/binary_writer.hpp",
 "include/nlohmann/detail/output/output_adapters.hpp",
+"include/nlohmann/detail/output/serializer.hpp",
+        "include/nlohmann/detail/string_concat.hpp",
