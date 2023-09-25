@@ -46,3 +46,6 @@ cc_library(
         "include/nlohmann/ordered_map.hpp",
 "include/nlohmann/thirdparty/hedley/hedley.hpp",
  "include/nlohmann/thirdparty/hedley/hedley_undef.hpp",
+  ],
+    includes = ["include"],
+    visibility = ["//visibility:public"],
