@@ -40,3 +40,5 @@ cc_library(
         "include/nlohmann/detail/output/serializer.hpp",
  "include/nlohmann/detail/string_concat.hpp",
  "include/nlohmann/detail/string_escape.hpp",
+  "include/nlohmann/detail/value_t.hpp",
+        "include/nlohmann/json.hpp",
