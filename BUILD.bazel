@@ -30,3 +30,5 @@ cc_library(
  "include/nlohmann/detail/meta/call_std/end.hpp",
  "include/nlohmann/detail/meta/cpp_future.hpp",
   "include/nlohmann/detail/meta/detected.hpp",
+ "include/nlohmann/detail/meta/identity_tag.hpp",
+        "include/nlohmann/detail/meta/is_sax.hpp",
