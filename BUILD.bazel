@@ -48,3 +48,4 @@ cc_library(
 "include/nlohmann/thirdparty/hedley/hedley_undef.hpp",
     ],
     includes = ["include"],
+ visibility = ["//visibility:public"],
