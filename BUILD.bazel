@@ -20,3 +20,4 @@ cc_library(
  "include/nlohmann/detail/iterators/iteration_proxy.hpp",
         "include/nlohmann/detail/iterators/iterator_traits.hpp",
  "include/nlohmann/detail/iterators/json_reverse_iterator.hpp",
+ "include/nlohmann/detail/iterators/primitive_iterator.hpp",
